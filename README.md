@@ -38,6 +38,3 @@ make start
 
 
 Hello!
-
-
-Hello2
